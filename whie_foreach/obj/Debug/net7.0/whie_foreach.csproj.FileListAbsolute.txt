@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\bin\Debug\net7.0\whie_foreach.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\bin\Debug\net7.0\whie_foreach.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\bin\Debug\net7.0\whie_foreach.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\bin\Debug\net7.0\whie_foreach.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\bin\Debug\net7.0\whie_foreach.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\whie_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\whie_foreach.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\whie_foreach.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\whie_foreach.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\whie_foreach.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\refint\whie_foreach.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\whie_foreach.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\whie_foreach.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\whie_foreach\obj\Debug\net7.0\ref\whie_foreach.dll

@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\methodlar.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\methodlar.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\methodlar.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\bin\Debug\net7.0\methodlar.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\bin\Debug\net7.0\methodlar.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\bin\Debug\net7.0\methodlar.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\bin\Debug\net7.0\methodlar.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\bin\Debug\net7.0\methodlar.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\methodlar.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\refint\methodlar.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\methodlar.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\methodlar.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\methodlar\obj\Debug\net7.0\ref\methodlar.dll

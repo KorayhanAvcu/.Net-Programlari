@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\bin\Debug\net7.0\switch_case.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\bin\Debug\net7.0\switch_case.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\bin\Debug\net7.0\switch_case.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\bin\Debug\net7.0\switch_case.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\bin\Debug\net7.0\switch_case.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\switch_case.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\switch_case.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\refint\switch_case.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\switch_case.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\switch_case.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\switch_case\obj\Debug\net7.0\ref\switch_case.dll

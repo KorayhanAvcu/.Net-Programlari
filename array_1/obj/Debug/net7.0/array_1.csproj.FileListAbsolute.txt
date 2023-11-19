@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\bin\Debug\net7.0\array_1.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\bin\Debug\net7.0\array_1.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\bin\Debug\net7.0\array_1.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\bin\Debug\net7.0\array_1.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\bin\Debug\net7.0\array_1.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\array_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\array_1.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\array_1.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\array_1.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\array_1.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\refint\array_1.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\array_1.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\array_1.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\array_1\obj\Debug\net7.0\ref\array_1.dll

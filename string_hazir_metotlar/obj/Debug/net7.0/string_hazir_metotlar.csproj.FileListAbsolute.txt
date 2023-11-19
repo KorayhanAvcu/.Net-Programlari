@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\bin\Debug\net7.0\string_hazir_metotlar.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\bin\Debug\net7.0\string_hazir_metotlar.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\bin\Debug\net7.0\string_hazir_metotlar.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\bin\Debug\net7.0\string_hazir_metotlar.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\bin\Debug\net7.0\string_hazir_metotlar.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\string_hazir_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\string_hazir_metotlar.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\string_hazir_metotlar.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\string_hazir_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\string_hazir_metotlar.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\refint\string_hazir_metotlar.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\string_hazir_metotlar.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\string_hazir_metotlar.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\string_hazir_metotlar\obj\Debug\net7.0\ref\string_hazir_metotlar.dll

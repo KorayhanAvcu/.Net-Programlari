@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\generic_koleksiyonlar_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\generic_koleksiyonlar_list.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\generic_koleksiyonlar_list.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\generic_koleksiyonlar_list.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\bin\Debug\net7.0\generic_koleksiyonlar_list.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\bin\Debug\net7.0\generic_koleksiyonlar_list.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\bin\Debug\net7.0\generic_koleksiyonlar_list.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\bin\Debug\net7.0\generic_koleksiyonlar_list.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\bin\Debug\net7.0\generic_koleksiyonlar_list.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\generic_koleksiyonlar_list.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\refint\generic_koleksiyonlar_list.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\generic_koleksiyonlar_list.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\generic_koleksiyonlar_list.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\generic_koleksiyonlar_list\obj\Debug\net7.0\ref\generic_koleksiyonlar_list.dll

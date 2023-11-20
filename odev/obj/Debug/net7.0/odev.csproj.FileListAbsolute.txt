@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\bin\Debug\net7.0\odev.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\bin\Debug\net7.0\odev.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\bin\Debug\net7.0\odev.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\bin\Debug\net7.0\odev.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\bin\Debug\net7.0\odev.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\odev.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\odev.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\odev.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\odev.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\refint\odev.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\odev.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\odev.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\odev\obj\Debug\net7.0\ref\odev.dll

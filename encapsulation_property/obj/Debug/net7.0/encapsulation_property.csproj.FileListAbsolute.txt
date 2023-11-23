@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\encapsulation_property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\encapsulation_property.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\encapsulation_property.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\encapsulation_property.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\bin\Debug\net7.0\encapsulation_property.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\bin\Debug\net7.0\encapsulation_property.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\bin\Debug\net7.0\encapsulation_property.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\bin\Debug\net7.0\encapsulation_property.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\bin\Debug\net7.0\encapsulation_property.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\encapsulation_property.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\refint\encapsulation_property.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\encapsulation_property.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\encapsulation_property.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\encapsulation_property\obj\Debug\net7.0\ref\encapsulation_property.dll

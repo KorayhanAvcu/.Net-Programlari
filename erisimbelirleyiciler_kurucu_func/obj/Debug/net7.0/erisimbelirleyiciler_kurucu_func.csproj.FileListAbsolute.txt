@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\bin\Debug\net7.0\erisimbelirleyiciler_kurucu_func.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\bin\Debug\net7.0\erisimbelirleyiciler_kurucu_func.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\bin\Debug\net7.0\erisimbelirleyiciler_kurucu_func.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\bin\Debug\net7.0\erisimbelirleyiciler_kurucu_func.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\bin\Debug\net7.0\erisimbelirleyiciler_kurucu_func.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\erisimbelirleyiciler_kurucu_func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\erisimbelirleyiciler_kurucu_func.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\erisimbelirleyiciler_kurucu_func.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\erisimbelirleyiciler_kurucu_func.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\erisimbelirleyiciler_kurucu_func.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\refint\erisimbelirleyiciler_kurucu_func.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\erisimbelirleyiciler_kurucu_func.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\erisimbelirleyiciler_kurucu_func.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\erisimbelirleyiciler_kurucu_func\obj\Debug\net7.0\ref\erisimbelirleyiciler_kurucu_func.dll

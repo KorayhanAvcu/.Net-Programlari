@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\staticsinif_uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\staticsinif_uyeler.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\staticsinif_uyeler.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\staticsinif_uyeler.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\bin\Debug\net7.0\staticsinif_uyeler.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\bin\Debug\net7.0\staticsinif_uyeler.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\bin\Debug\net7.0\staticsinif_uyeler.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\bin\Debug\net7.0\staticsinif_uyeler.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\bin\Debug\net7.0\staticsinif_uyeler.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\staticsinif_uyeler.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\refint\staticsinif_uyeler.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\staticsinif_uyeler.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\staticsinif_uyeler.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\staticsinif_uyeler\obj\Debug\net7.0\ref\staticsinif_uyeler.dll

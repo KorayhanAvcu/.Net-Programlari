@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\bin\Debug\net7.0\koleksiyon3.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\bin\Debug\net7.0\koleksiyon3.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\bin\Debug\net7.0\koleksiyon3.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\bin\Debug\net7.0\koleksiyon3.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\bin\Debug\net7.0\koleksiyon3.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\koleksiyon3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\koleksiyon3.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\koleksiyon3.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\koleksiyon3.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\koleksiyon3.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\refint\koleksiyon3.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\koleksiyon3.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\koleksiyon3.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\koleksiyon3\obj\Debug\net7.0\ref\koleksiyon3.dll

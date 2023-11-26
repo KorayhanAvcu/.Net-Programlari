@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\phone_directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\phone_directory.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\phone_directory.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\phone_directory.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\bin\Debug\net7.0\phone_directory.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\bin\Debug\net7.0\phone_directory.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\bin\Debug\net7.0\phone_directory.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\bin\Debug\net7.0\phone_directory.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\bin\Debug\net7.0\phone_directory.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\phone_directory.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\refint\phone_directory.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\phone_directory.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\phone_directory.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\phone_directory\obj\Debug\net7.0\ref\phone_directory.dll
